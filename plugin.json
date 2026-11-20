@@ -1,0 +1,17 @@
+{
+  "name": "emilkowalski-skills",
+  "displayName": "Emil Kowalski UI & Animation Skills",
+  "version": "1.1.0",
+  "description": "21 UI design engineering and animation skills by Emil Kowalski (Vercel/Linear craft bar), including the all-in-one /emil-ui orchestrator for web, Expo, and Swift UI & motion.",
+  "author": {
+    "name": "Emil Kowalski",
+    "url": "https://emilkowal.ski"
+  },
+  "homepage": "https://aiforui.dev/skills",
+  "repository": "https://github.com/jdsgnrinfo/skills-ui-antigravity",
+  "suggestedPrompts": [
+    "/emil-ui polish this component with Emil Kowalski's UI and animation bar",
+    "/emil-ui review my current animations",
+    "/emil-ui audit all animations in this codebase"
+  ]
+}
